@@ -19,6 +19,8 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Site Title"
 title_separator          : "-"
+future                   : true
+published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
@@ -113,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yoonseo Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Computer Science graduate @Unimelb"
+  location         : "Australia"
+  email            : "dev.yoonseo@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
